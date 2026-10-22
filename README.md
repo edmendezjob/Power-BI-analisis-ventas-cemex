@@ -102,6 +102,7 @@ Parcial realizado en **2022** (publicado como portafolio en 2026).
 ## Licencia y uso
 
 Este repositorio **no incluye por ahora una licencia abierta**. No se concede mediante este README permiso general para redistribuir, modificar o reutilizar el material.
+
 ---
 
 *“Transformar datos en decisiones”*
